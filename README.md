@@ -54,9 +54,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 If you find this repository useful and would like to support its development, consider making a donation to the following wallet address:
 
-
+```bash
 0x86FFC6C3782D2b551c5dF462eD5B47d56c539F19
-
+```
 
 Your contributions help maintain and improve this repository for the community. Thank you for your support!
 
