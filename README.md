@@ -28,7 +28,7 @@ Automate cryptocurrency trading on UniSwap V2 using this Python-based quantitati
    ```bash
    git clone https://github.com/joebb10/Crypto-Trading-Bot.git
    cd Crypto-Trading-Bot
-2. Install dependencies
+2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 
@@ -40,7 +40,7 @@ Automate cryptocurrency trading on UniSwap V2 using this Python-based quantitati
 
       PRIVATE_KEY=your_private_key_here
 
-#### Run the bot - 
+### Run the bot 
    ```bash
    python3 bot.py
  ```
